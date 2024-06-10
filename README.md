@@ -1,6 +1,6 @@
 # **오픈소스SW개발론**
 
-### Introduction
+### Introductio
 
 -------------
 ### Week1-1 강의 개요 (강의계획서)
